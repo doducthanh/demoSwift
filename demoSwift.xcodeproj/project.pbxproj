@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					84FC8A2F1F65738200098052 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = MHMKQ53K33;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MHMKQ53K33;
 				INFOPLIST_FILE = demoSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ddthanh.demoSwift;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = MHMKQ53K33;
 				INFOPLIST_FILE = demoSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ddthanh.demoSwift;
